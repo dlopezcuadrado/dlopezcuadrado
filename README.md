@@ -16,9 +16,9 @@ Welcome! I'm David <a href="https://github.com/dlopezcuadrado" target="_self">
 <hr>
 
 <p>
-Passionate cloud native and business oriented Software Developer with 6+ years of experience specialized in Microsoft technologies. I’m AWS Solutions Architect (Associate) certificated, with also 2 years of past experience in Azure. Building products on .NET 6 using different surrounding frameworks, technologies and architectures adapting to each particular challenge.
+Cloud native and business-oriented Senior Software Developer with 8+ years of experience on Microsoft technologies. AWS Solutions Architect (Associate) certificated, with also 2 years of past experience in Azure. Building products on .NET 6 using different surrounding frameworks, technologies and architectures adapted to each particular challenge.
 
-Deloitte, Boehringer Ingelheim (at Omega CRM) and TUI bring me together the most relevant experience in recent years. Collaborating with a vast variety of colleagues and teams around the globe (USA, Germany, Netherlands, UK, Poland, India, etc.) and working with customers such: Acciona, BSH, Orange, Essity, BMW, Aliseda, Lufthansa, Essity, Otto Group; among others.
+Deloitte, Boehringer Ingelheim and TUI bring me together the most relevant experience in recent years. Collaborating with colleagues and teams around the globe (USA, Germany, Netherlands, UK, Poland, India, etc.) and customers such: Acciona, BSH, Orange, Essity, BMW, Aliseda, Lufthansa, Otto; among others.
 </p>
 <hr>
 
