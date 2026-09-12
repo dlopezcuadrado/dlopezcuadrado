@@ -22,7 +22,23 @@ Cloud-native and business-oriented <strong>Senior Software Engineer</strong> wit
 Passionate about building robust, scalable products on .NET using cloud-native architectures, AI-augmented workflows, and Infrastructure as Code. I've had the pleasure of collaborating with teams across the globe (USA, Germany, Netherlands, UK, Poland, India...) and delivering for customers such as Acciona, BSH, Orange, Essity, BMW, Aliseda, Lufthansa and Otto, among others.
 
 Previously at <strong>Deloitte</strong> and <strong>Boehringer Ingelheim</strong>.
+
+Outside the day job, I run <strong>DLCMEDIA</strong> and <strong>FunTechFactory</strong>, and I like getting my hands dirty with agentic AI tooling — from wiring up Claude Code / MCP workflows to reverse-engineering and rebuilding coding agents from scratch.
 </p>
+
+<hr>
+
+## 🧪 Side projects & explorations
+
+<p>
+Public tinkering, mostly around AI agents and things that make my life easier:
+</p>
+
+<ul>
+  <li>🦀 <a href="https://github.com/dlopezcuadrado/claurst"><strong>claurst</strong></a> — rebuilding a terminal coding agent in Rust, with notes on reverse-engineering Claude Code internals</li>
+  <li>💳 <a href="https://github.com/dlopezcuadrado/ap2"><strong>ap2</strong></a> — exploring the Agent Payments Protocol for secure, interoperable AI-driven payments</li>
+  <li>💰 personal finance tracking, real-estate market analysis, and other automation side projects (mostly private for now)</li>
+</ul>
 
 <hr>
 
@@ -33,6 +49,9 @@ Previously at <strong>Deloitte</strong> and <strong>Boehringer Ingelheim</strong
 </a>
 <a href="https://github.com/dlopezcuadrado">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://dlopezcuadrado.com">
+  <img src="https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
 </a>
 
 <hr>
@@ -46,6 +65,9 @@ Previously at <strong>Deloitte</strong> and <strong>Boehringer Ingelheim</strong
   <img src="https://img.shields.io/badge/.NET_10-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10"/>
   <img src="https://img.shields.io/badge/Entity_Framework-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/>
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -55,6 +77,8 @@ Previously at <strong>Deloitte</strong> and <strong>Boehringer Ingelheim</strong
 
 <p>
   <img src="https://img.shields.io/badge/Claude-%23CC785C.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Claude_Code-%23CC785C.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-000000.svg?style=for-the-badge" alt="Model Context Protocol"/>
   <img src="https://img.shields.io/badge/Amazon_Bedrock-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Bedrock"/>
   <img src="https://img.shields.io/badge/LLM_APIs-%234285F4.svg?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs"/>
 </p>
