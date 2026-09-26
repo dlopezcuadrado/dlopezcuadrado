@@ -1,10 +1,10 @@
 # AGENTS.md — dlopezcuadrado (GitHub profile)
 
-`README.md` is rendered as the GitHub profile page for `dlopezcuadrado`. `LINKEDIN_IMPROVEMENTS.md` holds the drafted LinkedIn profile copy. Tracked under the dlopezcuadrado.com project in Linear.
+`README.md` is rendered as the GitHub profile page for `dlopezcuadrado`. `LINKEDIN_IMPROVEMENTS.md` holds the drafted LinkedIn profile copy. Tracked in the GitHub Profile project in Linear.
 
 ## Backlog
 
-Work is tracked in Linear: project **[dlopezcuadrado.com](https://linear.app/dlopezcuadrado/project/dlopezcuadradocom-31bff98ea881)**, team `DLO`. This repo has no TODO or roadmap file, and none should be added - anything that needs doing is a Linear issue.
+Work is tracked in Linear: project **[GitHub Profile](https://linear.app/dlopezcuadrado/project/github-profile-ad10db598959)**, team `DLO`. This repo has no TODO or roadmap file, and none should be added - anything that needs doing is a Linear issue.
 
 - **Pick work** from the project's open issues, highest priority first (Urgent → High → Medium → Low). Skip issues labelled `Blocked`: they wait on something only the owner can do, described in the issue.
 - **Start**: move the issue to *In Progress*. Work directly on `main` - no feature branches.
