@@ -36,7 +36,6 @@ Public tinkering, mostly around AI agents and things that make my life easier:
 
 <ul>
   <li>🦀 <a href="https://github.com/dlopezcuadrado/claurst"><strong>claurst</strong></a> — rebuilding a terminal coding agent in Rust, with notes on reverse-engineering Claude Code internals</li>
-  <li>💳 <a href="https://github.com/dlopezcuadrado/ap2"><strong>ap2</strong></a> — exploring the Agent Payments Protocol for secure, interoperable AI-driven payments</li>
   <li>💰 personal finance tracking, real-estate market analysis, and other automation side projects (mostly private for now)</li>
 </ul>
 
