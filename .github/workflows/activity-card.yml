@@ -1,4 +1,4 @@
-name: Stats card
+name: Activity card
 
 on:
   schedule:
@@ -7,14 +7,14 @@ on:
   push:
     branches: [main]
     paths:
-      - .github/scripts/stats_card.py
-      - .github/workflows/stats-card.yml
+      - .github/scripts/activity_card.py
+      - .github/workflows/activity-card.yml
 
 permissions:
   contents: write
 
 concurrency:
-  group: stats-card
+  group: activity-card
   cancel-in-progress: false
 
 jobs:
@@ -26,13 +26,13 @@ jobs:
       - name: Render card
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 .github/scripts/stats_card.py dlopezcuadrado assets/github-stats.svg
+        run: python3 .github/scripts/activity_card.py dlopezcuadrado assets
 
       - name: Commit if changed
         run: |
-          git add assets/github-stats.svg
+          git add assets/activity-light.svg assets/activity-dark.svg
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: refresh stats card"
+          git commit -m "chore: refresh activity card"
           git push
