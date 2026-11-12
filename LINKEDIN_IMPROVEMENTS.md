@@ -10,7 +10,7 @@ Lead Software Engineer · tuifly.com at TUI | Digital Sales | Cloud-Native | AWS
 
 ## 2. About
 
-Cloud-native and business-oriented **Lead Software Engineer** with 10+ years of experience building cloud-native products, at TUI since 2021, where after working across several areas of the airline I now lead engineering for tuifly.com within Airline Commercial · Digital Sales Solutions. AWS Certified Solutions Architect (Associate), with deep hands-on background in both AWS and Azure.
+Cloud-native and business-oriented **Lead Software Engineer** with 10+ years of experience building cloud-native products, at TUI since 2021: first on the Product Experience team, then Platform Enablers building the airline's internal developer platform, and since July 2026 leading engineering for tuifly.com within Airline Commercial · Digital Sales Solutions. AWS Certified Solutions Architect (Associate), with deep hands-on background in both AWS and Azure.
 
 I lead the design and delivery of the airline's direct digital sales channel — combining cloud-native architecture, Infrastructure as Code (Terraform, AWS CDK), and AI-augmented workflows (Claude, Amazon Bedrock) on top of .NET.
 
@@ -20,7 +20,13 @@ Previously at Deloitte and Boehringer Ingelheim.
 
 ---
 
-## 3. Current Role at TUI — Description
+## 3. TUI — Positions
+
+Add these as separate positions under one TUI entry, newest first, so the progression shows.
+
+### Lead Software Engineer · tuifly.com (Jul 2026 – Present)
+
+Airline Commercial · Digital Sales Solutions
 
 ```
 Lead Software Engineer of tuifly.com, TUI Airline's direct booking website, within Airline Commercial · Digital Sales Solutions.
@@ -33,7 +39,26 @@ Key responsibilities:
 · Working with commercial and product stakeholders to grow direct digital sales
 ```
 
-> **Title:** Lead Software Engineer · **Team:** Airline Commercial · Digital Sales Solutions · **At TUI since:** 2021. This role is recent. **TODO:** its start date, and the earlier TUI roles (title, area, dates) as separate positions under the TUI entry. Check the responsibilities against what you actually own before publishing.
+### [Title] · Platform Enablers (2023 – Jun 2026)
+
+```
+Platform engineering within TUI Airline, driving the design and evolution of the internal developer platform that lets product teams ship faster and operate more reliably at scale.
+
+Key responsibilities:
+· Architecting and owning cloud infrastructure on AWS (EC2, Lambda, S3, RDS, SQS, and more)
+· Leading IaC strategy and implementation with Terraform and AWS CDK
+· Driving developer tooling and platform automation initiatives
+· Introducing AI-augmented engineering workflows using Amazon Bedrock and Claude
+· Acting as technical reference for cloud-native best practices across TUI Airline engineering teams
+```
+
+### [Title] · Product Experience (2021 – 2023)
+
+```
+[Description]
+```
+
+> **TODO:** the title for each earlier position, the start months for 2021 and 2023, and a description of the Product Experience work. Check every responsibility against what you actually did before publishing.
 
 ---
 
@@ -57,8 +82,10 @@ Key responsibilities:
 - Docker
 - Infrastructure as Code (IaC)
 
-**Delivery & DevOps**
+**Platform & Delivery**
 - Technical Leadership
+- Platform Engineering
+- Internal Developer Platforms
 - E-commerce
 - DevOps
 - GitLab CI/CD
