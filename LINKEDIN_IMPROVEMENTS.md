@@ -3,14 +3,14 @@
 ## 1. Headline
 
 ```
-Senior Software Engineer / Tech Lead · Platform Engineering | Cloud-Native | AWS · .NET
+Lead Software Engineer · Platform Engineering | Cloud-Native | AWS · .NET
 ```
 
 ---
 
 ## 2. About
 
-Cloud-native and business-oriented **Senior Software Engineer / Tech Lead** with 10+ years of experience driving platform engineering and cloud-native initiatives, currently leading efforts on the Platform Engineering team at TUI Group · Airline. AWS Certified Solutions Architect (Associate), with deep hands-on background in both AWS and Azure.
+Cloud-native and business-oriented **Lead Software Engineer** with 10+ years of experience driving platform engineering and cloud-native initiatives, currently leading efforts on the Platform Engineering team at TUI Group · Airline. AWS Certified Solutions Architect (Associate), with deep hands-on background in both AWS and Azure.
 
 I lead the design and delivery of internal developer platforms that empower engineering teams to move faster and operate more reliably — combining cloud-native architecture, Infrastructure as Code (Terraform, AWS CDK), and AI-augmented workflows (Claude, Amazon Bedrock) on top of .NET.
 
@@ -33,7 +33,7 @@ Key responsibilities:
 · Acting as technical reference for cloud-native best practices across TUI Airline engineering teams
 ```
 
-> **TODO:** Fill in exact dates, job title, and any previous TUI roles if applicable.
+> **Title:** Lead Software Engineer. **TODO:** fill in exact dates and any previous TUI roles if applicable.
 
 ---
 
@@ -104,4 +104,4 @@ Graduated first in my promotion with a grade of 9.67/10 — second highest in Ar
 
 ## Pending
 
-Tracked in Linear, project [GitHub Profile](https://linear.app/dlopezcuadrado/project/github-profile-ad10db598959) (DLO-48, DLO-49, DLO-50).
+Tracked in [GitHub Issues](https://github.com/dlopezcuadrado/dlopezcuadrado/issues) (#4, #5, #6).
