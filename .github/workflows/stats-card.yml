@@ -1,0 +1,38 @@
+name: Stats card
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/scripts/stats_card.py
+      - .github/workflows/stats-card.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats-card
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/stats_card.py dlopezcuadrado assets/github-stats.svg
+
+      - name: Commit if changed
+        run: |
+          git add assets/github-stats.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh stats card"
+          git push

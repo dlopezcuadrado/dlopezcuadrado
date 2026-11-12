@@ -2,6 +2,8 @@
 
 `README.md` is rendered as the GitHub profile page for `dlopezcuadrado`. `LINKEDIN_IMPROVEMENTS.md` holds the drafted LinkedIn profile copy.
 
+The stats card (`assets/github-stats.svg`) is generated daily by `.github/workflows/stats-card.yml` from `.github/scripts/stats_card.py`; don't edit the SVG by hand.
+
 ## Backlog
 
 Work is tracked in GitHub Issues: **[dlopezcuadrado/dlopezcuadrado](https://github.com/dlopezcuadrado/dlopezcuadrado/issues)**. This repo has no TODO or roadmap file, and none should be added - anything that needs doing is a GitHub issue.
