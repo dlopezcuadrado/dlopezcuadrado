@@ -39,7 +39,7 @@ Key responsibilities:
 · Working with commercial and product stakeholders to grow direct digital sales
 ```
 
-### [Title] · Platform Enablers (2023 – Jun 2026)
+### Senior Software Engineer · Platform Enablers (2023 – Jun 2026)
 
 ```
 Platform engineering within TUI Airline, driving the design and evolution of the internal developer platform that lets product teams ship faster and operate more reliably at scale.
@@ -52,13 +52,13 @@ Key responsibilities:
 · Acting as technical reference for cloud-native best practices across TUI Airline engineering teams
 ```
 
-### [Title] · Product Experience (2021 – 2023)
+### Software Engineer · Product Experience (2021 – 2023)
 
 ```
 [Description]
 ```
 
-> **TODO:** the title for each earlier position, the start months for 2021 and 2023, and a description of the Product Experience work. Check every responsibility against what you actually did before publishing.
+> **TODO:** the start months for 2021 and 2023, and a description of the Product Experience work. Check every responsibility against what you actually did before publishing.
 
 ---
 
