@@ -1,15 +1,9 @@
 <h1 align="center">Hey there! I'm David</h1>
 
-<p align="center">
-  <a href="https://github.com/dlopezcuadrado">
-    <img src="https://img.shields.io/github/followers/dlopezcuadrado?label=Followers&style=flat" alt="dlopezcuadrado" />
-  </a>
-</p>
-
 <hr>
 
 <p>
-Cloud-native and business-oriented <strong>Senior Software Engineer</strong> with <strong>10+ years of experience</strong>, currently on the <strong>Platform Engineering team at TUI Group · Airline</strong>. AWS Certified Solutions Architect (Associate), with strong background in both AWS and Azure.
+Cloud-native and business-oriented <strong>Lead Software Engineer</strong> with <strong>10+ years of experience</strong>, currently on the <strong>Platform Engineering team at TUI Group · Airline</strong>. AWS Certified Solutions Architect (Associate), with strong background in both AWS and Azure.
 
 Passionate about building robust internal developer platforms and scalable products on .NET using cloud-native architectures, AI-augmented workflows (Claude, Amazon Bedrock), and Infrastructure as Code (Terraform, AWS CDK). I've had the pleasure of collaborating with teams across the globe (USA, Germany, Netherlands, UK, Poland, India...) and delivering for customers such as Acciona, BSH, Orange, Essity, BMW, Aliseda, Lufthansa and Otto, among others.
 
