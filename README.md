@@ -3,7 +3,7 @@
 <hr>
 
 <p>
-Cloud-native and business-oriented <strong>Lead Software Engineer</strong> with <strong>10+ years of experience</strong>, leading engineering for <strong><a href="https://www.tuifly.com">tuifly.com</a></strong> at <strong>TUI</strong> since 2021, within Airline Commercial · Digital Sales Solutions. AWS Certified Solutions Architect (Associate), with strong background in both AWS and Azure.
+Cloud-native and business-oriented <strong>Lead Software Engineer</strong> with <strong>10+ years of experience</strong>, at <strong>TUI</strong> since 2021, where after working across several areas of the airline I now lead engineering for <strong><a href="https://www.tuifly.com">tuifly.com</a></strong> within Airline Commercial · Digital Sales Solutions. AWS Certified Solutions Architect (Associate), with strong background in both AWS and Azure.
 
 Passionate about building scalable, customer-facing products on .NET using cloud-native architectures, AI-augmented workflows (Claude, Amazon Bedrock), and Infrastructure as Code (Terraform, AWS CDK). I've had the pleasure of collaborating with teams across the globe (USA, Germany, Netherlands, UK, Poland, India...) and delivering for customers such as Acciona, BSH, Orange, Essity, BMW, Aliseda, Lufthansa and Otto, among others.
 
