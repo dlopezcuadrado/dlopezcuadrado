@@ -9,7 +9,7 @@ Passionate about building scalable, customer-facing products on .NET using cloud
 
 Previously at <strong>Deloitte</strong> and <strong>Boehringer Ingelheim</strong>.
 
-Outside the day job, I run <strong>DLCMEDIA</strong> and <strong>FunTechFactory</strong>, and I like getting my hands dirty with agentic AI tooling — from wiring up Claude Code / MCP workflows to reverse-engineering and rebuilding coding agents from scratch.
+Outside the day job, I run <strong>DLCMEDIA</strong> and <strong>FunTechFactory</strong>, and I like getting my hands dirty with agentic AI tooling, wiring up Claude Code and MCP workflows.
 </p>
 
 <hr>
@@ -25,7 +25,6 @@ Things I build and run outside the day job, mostly .NET and TypeScript on a self
   <li>🥙 <a href="https://kebabscore.com"><strong>KebabScore</strong></a>: rate and discover the best kebabs in your city, and share your ratings with friends (.NET 10, React PWA, PostgreSQL)</li>
   <li>🧭 <a href="https://atlas.funtechfactory.com"><strong>Atlas</strong></a>: travel planner and trip log with profiles, following and shared trips (SvelteKit, SQLite, OIDC)</li>
   <li>🧠 <strong>Nexo</strong>: my personal agentic system, where scheduled Claude agents check my own rules and bring me decisions to approve (MCP)</li>
-  <li>🦀 <a href="https://github.com/dlopezcuadrado/claurst"><strong>claurst</strong></a>: rebuilding a terminal coding agent in Rust, with notes on reverse-engineering Claude Code internals</li>
 </ul>
 
 <p>
@@ -57,7 +56,6 @@ More at <a href="https://funtechfactory.com">FunTechFactory</a>.
   <img src="https://img.shields.io/badge/.NET_10-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
 
