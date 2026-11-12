@@ -2,7 +2,29 @@
 
 `README.md` is rendered as the GitHub profile page for `dlopezcuadrado`. `LINKEDIN_IMPROVEMENTS.md` holds the drafted LinkedIn profile copy.
 
-The stats card (`assets/github-stats.svg`) is generated daily by `.github/workflows/stats-card.yml` from `.github/scripts/stats_card.py`; don't edit the SVG by hand.
+## Editing the profile
+
+Everything you read on the profile is plain text in `README.md`; only the activity card is generated.
+
+- **Hero**: the centred name, role line and link badges at the top.
+- **Career**: a Mermaid `timeline` block that GitHub draws. One line per step, `Period : Title` followed by `: Team` lines. Keep colons out of the text.
+- **Side projects**: a two-column HTML table. Each cell is one project, in this shape, blank lines included:
+
+  ```
+  <td width="50%" valign="top">
+
+  **🏠 [Name](https://url)**<br>
+  One sentence on what it does.<br>
+  <sub>Stack · Stack · Stack</sub>
+
+  </td>
+  ```
+
+  Add projects two per `<tr>`. Only list projects that are David's own and public or live; check `isFork` before listing a repo.
+- **Stack**: a Markdown table, one row per area.
+- **Activity**: `assets/activity-light.svg` and `assets/activity-dark.svg`, shown through a `<picture>` that follows the viewer's GitHub theme. `.github/workflows/activity-card.yml` regenerates both daily from `.github/scripts/activity_card.py`; never edit the SVGs by hand.
+
+Wording: describe AI in general (agents, LLM integrations), never a single tool, and never imply AI does most of the work.
 
 ## Backlog
 
