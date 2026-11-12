@@ -3,16 +3,16 @@
 ## 1. Headline
 
 ```
-Lead Software Engineer · Platform Engineering | Cloud-Native | AWS · .NET
+Lead Software Engineer · tuifly.com at TUI | Digital Sales | Cloud-Native | AWS · .NET
 ```
 
 ---
 
 ## 2. About
 
-Cloud-native and business-oriented **Lead Software Engineer** with 10+ years of experience driving platform engineering and cloud-native initiatives, currently leading efforts on the Platform Engineering team at TUI Group · Airline. AWS Certified Solutions Architect (Associate), with deep hands-on background in both AWS and Azure.
+Cloud-native and business-oriented **Lead Software Engineer** with 10+ years of experience building cloud-native products, leading engineering for tuifly.com at TUI since 2021, within Airline Commercial · Digital Sales Solutions. AWS Certified Solutions Architect (Associate), with deep hands-on background in both AWS and Azure.
 
-I lead the design and delivery of internal developer platforms that empower engineering teams to move faster and operate more reliably — combining cloud-native architecture, Infrastructure as Code (Terraform, AWS CDK), and AI-augmented workflows (Claude, Amazon Bedrock) on top of .NET.
+I lead the design and delivery of the airline's direct digital sales channel — combining cloud-native architecture, Infrastructure as Code (Terraform, AWS CDK), and AI-augmented workflows (Claude, Amazon Bedrock) on top of .NET.
 
 Throughout my career I've driven technical initiatives collaborating with global teams across the USA, Germany, Netherlands, UK, Poland, and India, and delivering for customers such as Acciona, BSH, Orange, Essity, BMW, Aliseda, Lufthansa, and Otto, among others.
 
@@ -23,17 +23,17 @@ Previously at Deloitte and Boehringer Ingelheim.
 ## 3. Current Role at TUI — Description
 
 ```
-Leading platform engineering efforts within TUI Airline, driving the design and evolution of the internal developer platform that empowers product teams to ship faster and operate more reliably at scale.
+Lead Software Engineer of tuifly.com, TUI Airline's direct booking website, within Airline Commercial · Digital Sales Solutions.
 
 Key responsibilities:
-· Architecting and owning cloud infrastructure on AWS (EC2, Lambda, S3, RDS, SQS, and more)
-· Leading IaC strategy and implementation with Terraform and AWS CDK
-· Driving developer tooling and platform automation initiatives
+· Leading the engineering of tuifly.com, from architecture to delivery
+· Architecting and owning its cloud infrastructure on AWS
+· Driving IaC with Terraform and AWS CDK
 · Introducing AI-augmented engineering workflows using Amazon Bedrock and Claude
-· Acting as technical reference for cloud-native best practices across TUI Airline engineering teams
+· Working with commercial and product stakeholders to grow direct digital sales
 ```
 
-> **Title:** Lead Software Engineer. **TODO:** fill in exact dates and any previous TUI roles if applicable.
+> **Title:** Lead Software Engineer · **Dates:** 2021 – Present · **Team:** Airline Commercial · Digital Sales Solutions. Check the responsibilities against what you actually own before publishing.
 
 ---
 
@@ -57,9 +57,9 @@ Key responsibilities:
 - Docker
 - Infrastructure as Code (IaC)
 
-**Platform Engineering**
-- Platform Engineering
-- Internal Developer Platforms
+**Delivery & DevOps**
+- Technical Leadership
+- E-commerce
 - DevOps
 - GitLab CI/CD
 - Azure DevOps
@@ -83,7 +83,7 @@ Key responsibilities:
 Remove "IT Consulting, Cloud Management, Project Management" and replace with:
 
 ```
-· Platform Engineering
+· Technical Leadership
 · Cloud Architecture (AWS / Azure)
 · .NET Software Development
 ```
