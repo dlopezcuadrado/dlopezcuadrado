@@ -10,7 +10,7 @@ Lead Software Engineer · tuifly.com at TUI | Digital Sales | Cloud-Native | AWS
 
 ## 2. About
 
-Cloud-native and business-oriented **Lead Software Engineer** with 10+ years of experience building cloud-native products, leading engineering for tuifly.com at TUI since 2021, within Airline Commercial · Digital Sales Solutions. AWS Certified Solutions Architect (Associate), with deep hands-on background in both AWS and Azure.
+Cloud-native and business-oriented **Lead Software Engineer** with 10+ years of experience building cloud-native products, at TUI since 2021, where after working across several areas of the airline I now lead engineering for tuifly.com within Airline Commercial · Digital Sales Solutions. AWS Certified Solutions Architect (Associate), with deep hands-on background in both AWS and Azure.
 
 I lead the design and delivery of the airline's direct digital sales channel — combining cloud-native architecture, Infrastructure as Code (Terraform, AWS CDK), and AI-augmented workflows (Claude, Amazon Bedrock) on top of .NET.
 
@@ -33,7 +33,7 @@ Key responsibilities:
 · Working with commercial and product stakeholders to grow direct digital sales
 ```
 
-> **Title:** Lead Software Engineer · **Dates:** 2021 – Present · **Team:** Airline Commercial · Digital Sales Solutions. Check the responsibilities against what you actually own before publishing.
+> **Title:** Lead Software Engineer · **Team:** Airline Commercial · Digital Sales Solutions · **At TUI since:** 2021. This role is recent. **TODO:** its start date, and the earlier TUI roles (title, area, dates) as separate positions under the TUI entry. Check the responsibilities against what you actually own before publishing.
 
 ---
 
