@@ -13,7 +13,7 @@
   </style>
   <rect class="card" x="0.5" y="0.5" width="459" height="155" rx="6"/>
   <text class="title" x="24" y="34">David&#x27;s GitHub activity</text>
-  <text class="label" x="24" y="64">Contributions (last year)</text><text class="value" x="436" y="64" text-anchor="end">1,695</text>
+  <text class="label" x="24" y="64">Contributions (last year)</text><text class="value" x="436" y="64" text-anchor="end">1,690</text>
   <text class="label" x="24" y="90">Active days (last year)</text><text class="value" x="436" y="90" text-anchor="end">67</text>
   <text class="label" x="24" y="116">Busiest day</text><text class="value" x="436" y="116" text-anchor="end">129</text>
 </svg>
