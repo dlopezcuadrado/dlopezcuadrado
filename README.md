@@ -31,13 +31,19 @@ Outside the day job, I run <strong>DLCMEDIA</strong> and <strong>FunTechFactory<
 ## 🧪 Side projects & explorations
 
 <p>
-Public tinkering, mostly around AI agents and things that make my life easier:
+Things I build and run outside the day job, mostly .NET and TypeScript on a self-hosted VPS, with Claude Code agents doing a lot of the work:
 </p>
 
 <ul>
-  <li>🦀 <a href="https://github.com/dlopezcuadrado/claurst"><strong>claurst</strong></a> — rebuilding a terminal coding agent in Rust, with notes on reverse-engineering Claude Code internals</li>
-  <li>💰 personal finance tracking, real-estate market analysis, and other automation side projects (mostly private for now)</li>
+  <li>🏠 <a href="https://misfincas.com"><strong>MisFincas</strong></a>: portfolio manager for Spanish landlords that works out the real net yield of a rental after taxes, fees and deductions (.NET 10, Next.js, PostgreSQL)</li>
+  <li>🧭 <a href="https://atlas.funtechfactory.com"><strong>Atlas</strong></a>: travel planner and trip log with profiles, following and shared trips (SvelteKit, SQLite, OIDC)</li>
+  <li>🧠 <strong>Nexo</strong>: my personal agentic system, where scheduled Claude agents check my own rules and bring me decisions to approve (MCP)</li>
+  <li>🦀 <a href="https://github.com/dlopezcuadrado/claurst"><strong>claurst</strong></a>: rebuilding a terminal coding agent in Rust, with notes on reverse-engineering Claude Code internals</li>
 </ul>
+
+<p>
+More at <a href="https://funtechfactory.com">FunTechFactory</a>.
+</p>
 
 <hr>
 
@@ -62,14 +68,10 @@ Public tinkering, mostly around AI agents and things that make my life easier:
 <p>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET_10-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10"/>
-  <img src="https://img.shields.io/badge/Entity_Framework-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
 
 ### 🤖 AI & LLMs
@@ -79,15 +81,14 @@ Public tinkering, mostly around AI agents and things that make my life easier:
   <img src="https://img.shields.io/badge/Claude_Code-%23CC785C.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
   <img src="https://img.shields.io/badge/Model_Context_Protocol-000000.svg?style=for-the-badge" alt="Model Context Protocol"/>
   <img src="https://img.shields.io/badge/Amazon_Bedrock-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Bedrock"/>
-  <img src="https://img.shields.io/badge/LLM_APIs-%234285F4.svg?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs"/>
 </p>
 
 ### 🏬 Databases
 
 <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/DynamoDB-%234053D6.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 ### ☁️ Cloud
@@ -111,10 +112,9 @@ Public tinkering, mostly around AI agents and things that make my life easier:
 ### 💼 DevOps & Code Management
 
 <p>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-%230078D4.svg?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
@@ -122,9 +122,9 @@ Public tinkering, mostly around AI agents and things that make my life easier:
 
 ## 📊 GitHub Stats
 
-<p>I don't usually make my projects open source, but it's something I'd love to change 😄. In the meantime, here are some stats on my public work.</p>
+<p>Most of my work lives in private repositories, so these count private contributions too.</p>
 
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dlopezcuadrado&show_icons=true&theme=default" alt="dlopezcuadrado stats">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dlopezcuadrado" alt="dlopezcuadrado streak">
+  <img width="49.5%" src="assets/github-stats.svg" alt="dlopezcuadrado GitHub activity">
+  <img width="49.5%" src="https://streak-stats.demolab.com/?user=dlopezcuadrado" alt="dlopezcuadrado streak">
 </p>
