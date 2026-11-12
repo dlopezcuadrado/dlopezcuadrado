@@ -1,14 +1,6 @@
-<h1 align="center">
-  Hey there! I'm David
-  <a href="https://github.com/dlopezcuadrado" target="_self">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  </a>
-</h1>
+<h1 align="center">Hey there! I'm David</h1>
 
 <p align="center">
-  <a href="https://github.com/dlopezcuadrado">
-    <img src="https://komarev.com/ghpvc/?username=dlopezcuadrado&label=Profile%20views&color=0e75b6&style=flat" alt="dlopezcuadrado" />
-  </a>
   <a href="https://github.com/dlopezcuadrado">
     <img src="https://img.shields.io/github/followers/dlopezcuadrado?label=Followers&style=flat" alt="dlopezcuadrado" />
   </a>
@@ -36,6 +28,7 @@ Things I build and run outside the day job, mostly .NET and TypeScript on a self
 
 <ul>
   <li>🏠 <a href="https://misfincas.com"><strong>MisFincas</strong></a>: portfolio manager for Spanish landlords that works out the real net yield of a rental after taxes, fees and deductions (.NET 10, Next.js, PostgreSQL)</li>
+  <li>🥙 <a href="https://kebabscore.com"><strong>KebabScore</strong></a>: rate and discover the best kebabs in your city, and share your ratings with friends (.NET 10, React PWA, PostgreSQL)</li>
   <li>🧭 <a href="https://atlas.funtechfactory.com"><strong>Atlas</strong></a>: travel planner and trip log with profiles, following and shared trips (SvelteKit, SQLite, OIDC)</li>
   <li>🧠 <strong>Nexo</strong>: my personal agentic system, where scheduled Claude agents check my own rules and bring me decisions to approve (MCP)</li>
   <li>🦀 <a href="https://github.com/dlopezcuadrado/claurst"><strong>claurst</strong></a>: rebuilding a terminal coding agent in Rust, with notes on reverse-engineering Claude Code internals</li>
